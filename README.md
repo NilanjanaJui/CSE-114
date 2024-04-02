@@ -3,12 +3,13 @@
 <br>
 This is my first Git Repository.
 <br>
-Here I will uplode all my Assignments and Class Works of this Course.
+Here I will uplode all my Assignments, Practice Problems, Class Works of this Course.
 
 ## Tools and Progamming Languages
 1. C Program
-2. VS Code
-3. NVim
-4. GitHub
+2. C++ Program
+3. VS Code
+4. NVim
+5. GitHub
 
 
